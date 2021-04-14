@@ -3,7 +3,7 @@
 #### About me:
 
 - :octocat:  I'm Italian Brazilian statistician
-- 🌱 I’m currently learning Data Science and work with big data
+- 🌱 I’m currently learning Data Science and big data
 - 👯 I’m looking to collaborate on Data Science Projects
 - ⚡ Fun fact: I'm brazilian statistics lost in Italy that loves Wien
 
