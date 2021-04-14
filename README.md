@@ -1,5 +1,5 @@
 
-### Hi 👋 welcome to my Git Hub :octocat:
+### Hi 👋 welcome to my GitHub :octocat:
 #### About me:
 
 - :octocat:  I'm Brazil-Italian statistician
