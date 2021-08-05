@@ -1,10 +1,22 @@
 
-### Hi 👋 welcome to my GitHub :octocat:
-#### About me:
-
+### Alessandra Barbosa
+###### BSc. Statistic - Postgraduating in Data Science
 - :octocat:  I'm Italian Brazilian BSc. Statistician
 - 🌱 I’m postgraduating in Data Science and Big Data
-- 👯 I’m looking to collaborate on Data Science Projects
+
+
+#### Analytical Tools
+- Data Collect and storage : Sql
+- Data Procssing and analysis : Python , R
+
+
+#### Portfolio Projects
+
+[Sales Predicting](https://github.com/alessandra-barbosa/DS_Producao)
+
+[Insights Project](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
+
+[Expectancy life predicting](https://github.com/alessandra-barbosa/Expectancy-Life)
 
 
 ####  📫 How to reach me: 
