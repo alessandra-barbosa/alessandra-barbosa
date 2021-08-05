@@ -1,6 +1,7 @@
-
-### Alessandra Barbosa
 ###### BSc. Statistic - Postgraduating in Data Science
+
+### Hi, Welcome to my Github
+
 - :octocat:  I'm Italian Brazilian BSc. Statistician
 - 🌱 I’m postgraduating in Data Science and Big Data
 
@@ -8,7 +9,6 @@
 #### Analytical Tools
 - Data Collect and storage : Sql
 - Data Procssing and analysis : Python , R
-
 
 #### Portfolio Projects
 
