@@ -2,7 +2,7 @@
 ### Hi 👋 welcome to my GitHub :octocat:
 #### About me:
 
-- :octocat:  I'm Italian Brazilian BSc. statistician
+- :octocat:  I'm Italian Brazilian BSc. Statistician
 - 🌱 I’m postgraduating in Data Science and Big Data
 - 👯 I’m looking to collaborate on Data Science Projects
 
