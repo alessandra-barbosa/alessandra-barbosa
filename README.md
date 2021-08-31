@@ -16,7 +16,7 @@
 
 [Insights Project](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
 
-[Expectancy life predicting](https://github.com/alessandra-barbosa/Expectancy-Life)
+[Expectancy life predicting](https://github.com/alessandra-barbosa/Expectancy-Life-.git)
 
 
 ####  📫 How to reach me: 
