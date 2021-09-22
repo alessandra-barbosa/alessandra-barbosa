@@ -18,6 +18,9 @@
 
 [Expectancy life predicting](https://github.com/alessandra-barbosa/Expectancy-Life-.git)
 
+[Product pricing - webscraping](https://github.com/alessandra-barbosa/Ds_Dev)
+
+
 
 ####  📫 How to reach me: 
 
