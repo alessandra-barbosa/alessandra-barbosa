@@ -12,7 +12,7 @@
 
 #### Portfolio Projects
 
-[Product pricing - webscraping](https://github.com/alessandra-barbosa/DS_DEV)
+[Product pricing - web scraping](https://github.com/alessandra-barbosa/DS_DEV)
 
 [Expectancy life predicting](https://github.com/alessandra-barbosa/Expectancy-Life-.git)
 
