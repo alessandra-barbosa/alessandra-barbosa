@@ -18,8 +18,8 @@
 
 [Sales Predicting](https://github.com/alessandra-barbosa/DS_Producao)
 
-[Insights Project](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
-
+[Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
+                                     
 
 ####  📫 How to reach me: 
 
