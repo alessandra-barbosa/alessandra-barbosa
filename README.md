@@ -14,11 +14,12 @@
 
 [Product pricing - web scraping](https://github.com/alessandra-barbosa/DS_DEV)
 
+[Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
+
 [Expectancy life predicting](https://github.com/alessandra-barbosa/Expectancy-Life-.git)
 
 [Sales Predicting](https://github.com/alessandra-barbosa/DS_Producao)
 
-[Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
                                      
 
 ####  📫 How to reach me: 
