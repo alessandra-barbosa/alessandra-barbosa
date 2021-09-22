@@ -12,14 +12,13 @@
 
 #### Portfolio Projects
 
-[Sales Predicting](https://github.com/alessandra-barbosa/DS_Producao)
-
-[Insights Project](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
+[Product pricing - webscraping](https://github.com/alessandra-barbosa/DS_DEV)
 
 [Expectancy life predicting](https://github.com/alessandra-barbosa/Expectancy-Life-.git)
 
-[Product pricing - webscraping](https://github.com/alessandra-barbosa/Ds_Dev)
+[Sales Predicting](https://github.com/alessandra-barbosa/DS_Producao)
 
+[Insights Project](https://github.com/alessandra-barbosa/Python_DS_Meigarom)
 
 
 ####  📫 How to reach me: 
