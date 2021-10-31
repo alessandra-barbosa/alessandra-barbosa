@@ -8,7 +8,7 @@
 
 #### Analytical Tools
 - Data Collect and storage : Sql
-- Data Procssing and analysis : Python , R
+- Data Processing and analysis : Python , R
 
 #### Portfolio Projects
 
