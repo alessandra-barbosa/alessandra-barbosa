@@ -12,7 +12,7 @@
 
 #### Portfolio Projects
 
-[Product pricing - web scraping](https://github.com/alessandra-barbosa/DS_DEV)
+[Product pricing - web scraping](https://github.com/alessandra-barbosa/star_jeans/blob/main/README.md)
 
 [Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/House-Rocket-Insights)
 
