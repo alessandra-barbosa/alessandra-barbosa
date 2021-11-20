@@ -18,7 +18,7 @@
 
 [Expectancy life predicting](https://github.com/alessandra-barbosa/Life_Expectancy)
 
-[Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/https://github.com/alessandra-barbosa/DS_Em_Producao/blob/main/m11_v01_store_sales_prediction.ipynb)
+[Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/DS_Em_Producao/m11_v01_store_sales_prediction.ipynb)
 
                                      
 
