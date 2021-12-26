@@ -10,7 +10,7 @@
 - Data Collect and storage : Sql
 - Data Processing and analysis : Python , R
 
-#### [Portfolio Projects](https://github.com/alessandra-barbosa/portfolio.md)
+#### [Portfolio Projects](https://alessandra-barbosa.github.io/portfolio/)
 
 - [Product pricing - web scraping](https://github.com/alessandra-barbosa/star_jeans/blob/main/README.md)
 
