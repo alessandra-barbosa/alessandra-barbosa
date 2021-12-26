@@ -10,15 +10,15 @@
 - Data Collect and storage : Sql
 - Data Processing and analysis : Python , R
 
-#### Portfolio Projects
+#### [Portfolio Projects](https://github.com/alessandra-barbosa/portfolio.md)
 
-[Product pricing - web scraping](https://github.com/alessandra-barbosa/star_jeans/blob/main/README.md)
+- [Product pricing - web scraping](https://github.com/alessandra-barbosa/star_jeans/blob/main/README.md)
 
-[Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/House-Rocket-Insights)
+- [Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/House-Rocket-Insights)
 
-[Expectancy life predicting](https://github.com/alessandra-barbosa/Life_Expectancy)
+- [Expectancy life predicting](https://github.com/alessandra-barbosa/Life_Expectancy)
 
-[Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/DS_Em_Producao)
+- [Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/DS_Em_Producao)
 
                                      
 
