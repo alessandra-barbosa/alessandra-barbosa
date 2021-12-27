@@ -14,9 +14,9 @@
 
 - [Product pricing - web scraping](https://github.com/alessandra-barbosa/star_jeans/blob/main/README.md)
 
-- [Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/House-Rocket-Insights)
+- [Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/House-Rocket-Insights#readme)
 
-- [Expectancy life predicting](https://github.com/alessandra-barbosa/Life_Expectancy)
+- [Life Expectancy predicting](https://github.com/alessandra-barbosa/Life_Expectancy#readme)
 
 - [Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/rossmann_sales_predict#readme)
 
