@@ -16,7 +16,7 @@
 
 - [Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/House-Rocket-Insights#readme)
 
-- [Life Expectancy predicting](https://github.com/alessandra-barbosa/Life_Expectancy#readme)
+- [Life Expectancy predicting](https://github.com/alessandra-barbosa/life_expectancy_prediction#readme)
 
 - [Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/rossmann_sales_predict#readme)
 
