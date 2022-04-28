@@ -20,6 +20,8 @@
 
 - [Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/rossmann_sales_predict#readme)
 
+- [Cross sell - Learning to Rank ](https://github.com/alessandra-barbosa/health_insurance_cross_sell)
+
                                      
 
 ####  📫 How to reach me: 
