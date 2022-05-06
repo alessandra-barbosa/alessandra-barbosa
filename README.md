@@ -2,9 +2,7 @@
 
 ### Hi, Welcome to my Github
 
-- :octocat:  I'm Italian Brazilian BSc. Statistician
-- 🌱 I’m postgraduating in Data Science and Big Data
-
+- :octocat:  I'm BSc. in Statistics and postgraduated in Data Science and Big Data
 
 #### Analytical Tools
 - Data Collect and storage : Sql
