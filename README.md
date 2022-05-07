@@ -10,15 +10,17 @@
 
 #### [Portfolio Projects ( https://alessandra-barbosa.github.io/portfolio/](https://alessandra-barbosa.github.io/portfolio/))
 
+- [Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/rossmann_sales_predict#readme)
+
+- [Cross sell - Learning to Rank ](https://github.com/alessandra-barbosa/health_insurance_cross_sell)
+
 - [Product pricing - web scraping](https://github.com/alessandra-barbosa/star_jeans/blob/main/README.md)
 
 - [Insights Project with deploy Heroku (https://house-rocket-ds.herokuapp.com/)](https://github.com/alessandra-barbosa/House-Rocket-Insights#readme)
 
 - [Life Expectancy predicting](https://github.com/alessandra-barbosa/life_expectancy_prediction#readme)
 
-- [Sales Predicting_ Rossmann](https://github.com/alessandra-barbosa/rossmann_sales_predict#readme)
 
-- [Cross sell - Learning to Rank ](https://github.com/alessandra-barbosa/health_insurance_cross_sell)
 
                                      
 
