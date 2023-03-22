@@ -20,7 +20,7 @@
 
 - [Life Expectancy predicting](https://github.com/alessandra-barbosa/life_expectancy_prediction#readme)
 
-- [Cardio catch diseases]([https://github.com/alessandra-barbosa/cardio_catch_diseases#readme](https://github.com/alessandra-barbosa/cardio_catch_disease#readme)
+- [Cardio catch diseases](https://github.com/alessandra-barbosa/cardio_catch_disease#readme)
 
                                      
 
