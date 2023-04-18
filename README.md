@@ -1,4 +1,4 @@
-###### BSc. Statistic - Postgraduating in Data Science
+###### BSc. Statistic - Postgraduated in Data Science
 
 ### Hi, Welcome to my Github
 
